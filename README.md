@@ -104,7 +104,7 @@ $>whoami --whats-new | cowsay -f moose
 |                                         |
 | You can reach me out on my socials      |
 | (further details in the dedicated       |
-\ section below 👇)                       /
+\ section below 👇)                      /
  -----------------------------------------
   \
    \   \_\_    _/_/
